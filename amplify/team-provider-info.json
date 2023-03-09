@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-conetovideo-dev-01754-authRole",
+      "UnauthRoleArn": "arn:aws:iam::955228589631:role/amplify-conetovideo-dev-01754-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::955228589631:role/amplify-conetovideo-dev-01754-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-conetovideo-dev-01754-deployment",
+      "UnauthRoleName": "amplify-conetovideo-dev-01754-unauthRole",
+      "StackName": "amplify-conetovideo-dev-01754",
+      "StackId": "arn:aws:cloudformation:us-east-1:955228589631:stack/amplify-conetovideo-dev-01754/55e40330-be9e-11ed-8718-0e46c89b2f4d",
+      "AmplifyAppId": "d1huhch560strn"
+    }
+  }
+}
