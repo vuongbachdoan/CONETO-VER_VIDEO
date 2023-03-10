@@ -10,7 +10,6 @@
 
 <script>
 import Home from "./components/Home.vue";
-import HeaderBar from "./components/HeaderBar.vue";
 import Navbar from "./components/Navbar.vue";
 import Sidebar from "./components/Sidebar.vue";
 
